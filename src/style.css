@@ -1,0 +1,32 @@
+
+*
+{
+     margin:0;
+     padding:0;
+     box-sizing: border-box;
+}
+.Navbar{
+    text-align: center;
+    color: tomato;
+    background-color: black;
+}
+.Navbar a{
+    text-decoration: none;
+    color: tomato;
+    font-size: 20px;
+    padding: 10px;
+    margin: 10px;
+}
+.About-Me h1{
+    text-align: center;
+    color: tomato;
+    margin: 20px;
+}
+.About-Me img{
+    width: 200px;
+    height: 200px;
+    border-radius:50%;
+    margin: auto;
+    display: block;
+}
+
